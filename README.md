@@ -9,7 +9,7 @@
 4. 当出现∧（increase）或∨（decrease）时，后面不会重复出现相同的标记直至不同的标记出现。
 5. 必须根据散点拟合出趋势线，趋势线的平滑度通过参数调整。
 
-![image]([https://github.com/myy258/1024-game/blob/main/image/Screenshot%202025-11-17%20153047.png](https://github.com/myy258/Using-slope-to-identify-time-of-trend-mutation/blob/main/img/Screenshot%202025-12-09%20161729.png))
+![image](https://github.com/myy258/Using-slope-to-identify-time-of-trend-mutation/blob/main/img/Screenshot%202025-12-09%20161729.png)
    
 ## 使用环境
 
