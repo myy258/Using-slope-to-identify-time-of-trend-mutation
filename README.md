@@ -78,4 +78,11 @@ if __name__ == '__main__':
     plt.scatter([df_time_range['id index'][i] for i in down_points], [smoothed_y[i] for i in down_points],
                 c='b', marker='v', s=120, label='Down trend change', zorder=3)
 ```
-依据实际情况调整传入参数。
+
+![image](https://github.com/myy258/Using-slope-to-identify-time-of-trend-mutation/blob/main/img/Figure%202025-12-09%20165128.png)
+
+可依据实际情况调整传入参数。
+
+## 备注
+
+⚠️ **提醒：仅供学习使用**
