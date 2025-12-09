@@ -29,16 +29,16 @@
 # 曲线平滑度
 lambda_val=0.3
 
-滑动窗口大小
+# 滑动窗口大小
 window_size=20
 
-斜率阈值
+# 斜率阈值
 threshold=0.6
 
-开始时间点
+# 开始时间点
 x=time_range_start
 
-结束时间点
+# 结束时间点
 y=time_range_end
 ```
 
